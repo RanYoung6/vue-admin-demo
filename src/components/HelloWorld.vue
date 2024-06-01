@@ -60,6 +60,7 @@ export default {
   methods: {
     handleSelect (timeStr) {
       console.log(timeStr);
+      console.log('test git');
     }
 
   }
